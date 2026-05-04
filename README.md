@@ -2,6 +2,7 @@
 # Portfolio of Projects
 
 ## Projects
+This repository contains a portfolio of selected projects completed during my coursework.
 
 1. Assignment 1  
 https://github.com/jgikas134/Assignment-1
